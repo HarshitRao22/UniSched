@@ -375,7 +375,7 @@ server:
 
 ## 👨‍💻 Development Team
 
-This project is developed as a B.Tech CSE final-year project demonstrating:
+This project is developed as a B.Tech CSE 2nd-year project demonstrating:
 - ✅ Full-stack development
 - ✅ REST API design
 - ✅ Database design & optimization
