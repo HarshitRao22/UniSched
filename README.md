@@ -388,7 +388,7 @@ This project is developed as a B.Tech CSE 2nd-year project demonstrating:
 
 ## 📝 License
 
-This project is for educational purposes.
+Made by Harshit Rao
 
 ---
 
