@@ -1,6 +1,6 @@
 # Exam Scheduling System - Complete Setup Guide
 
-## 📋 Overview
+## 📋 Overview-
 
 **Automated Exam Scheduling and Timetable Management System** is a production-grade B.Tech final-year project that automates university examination timetable generation while minimizing scheduling conflicts.
 
