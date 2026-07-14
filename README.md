@@ -32,7 +32,7 @@
 
 ---
 
-## 🔧 Setup Instructions
+## 🔧 Setup Instructions -
 
 ### Step 1: Clone & Navigate
 
