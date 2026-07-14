@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Prerequisites
+## 🚀 Prerequisites -
 
 ### System Requirements
 - **Operating System**: macOS, Windows, or Linux
