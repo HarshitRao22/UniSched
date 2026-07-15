@@ -22,7 +22,7 @@
 - **MySQL**: 8.0+ ([Download](https://www.mysql.com/downloads/mysql/))
 - **Git**: For version control
 
-### Verified Versions
+### Verified Versions -
 ```
 - Java: 21.0.3 (Temurin)
 - Node.js: 18.0.0+
