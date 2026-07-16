@@ -3,7 +3,7 @@
 This is a manual, step-by-step checklist for demonstrating and verifying
 the project locally. Run through it top to bottom before any demo.
 
-## 0. Setup
+## 0. Setup-
 
 ```bash
 cd backend
