@@ -6,7 +6,7 @@ Built a production-quality, full-stack **Automated Exam Scheduling and Timetable
 
 ---
 
-## 📦 What Was Built
+## 📦 What Was Built~
 
 ### ✅ Complete Backend (Spring Boot 3.2.4, Java 21)
 
