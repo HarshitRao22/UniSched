@@ -1,6 +1,6 @@
 # PROJECT BUILD SUMMARY - MODULE 1 COMPLETE ✅
 
-## 🎯 Objective Achieved
+## 🎯 Objective Achieved~
 
 Built a production-quality, full-stack **Automated Exam Scheduling and Timetable Management System** with proper architecture, modular design, and professional code organization.
 
