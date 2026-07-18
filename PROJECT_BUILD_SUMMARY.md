@@ -59,7 +59,7 @@ Built a production-quality, full-stack **Automated Exam Scheduling and Timetable
 
 ---
 
-### ✅ Complete Frontend (React 18, Vite, Tailwind CSS)
+### ✅ Complete Frontend (React 18, Vite, Tailwind CSS)~
 
 **Total Files Created**: 11
 
