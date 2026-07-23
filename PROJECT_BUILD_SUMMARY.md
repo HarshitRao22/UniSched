@@ -191,7 +191,7 @@ exam-scheduling-system/
 
 ## 🔌 API Specification
 
-### Authentication Endpoints (Module 1)
+### Authentication Endpoints (Module 1)~
 
 #### 1️⃣ Login
 ```
