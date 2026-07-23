@@ -97,7 +97,7 @@ Built a production-quality, full-stack **Automated Exam Scheduling and Timetable
 
 ---
 
-### ✅ Complete Documentation
+### ✅ Complete Documentation~
 
 **Total Files Created**: 2
 
