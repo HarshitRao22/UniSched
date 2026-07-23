@@ -116,7 +116,7 @@ Built a production-quality, full-stack **Automated Exam Scheduling and Timetable
 
 ---
 
-## 📁 Full Directory Structure
+## 📁 Full Directory Structure~
 
 ```
 exam-scheduling-system/
