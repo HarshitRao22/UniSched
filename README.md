@@ -329,4 +329,4 @@ Generate a timetable first, then export.
 
 ---
 
-*B.Tech CSE Final Year Project — Smart Exam Scheduling and Timetable Management System*
+*B.Tech CSE 2nd Year Project — Smart Exam Scheduling and Timetable Management System*
